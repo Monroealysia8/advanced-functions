@@ -11,38 +11,65 @@ Data types specify what kind of value a variable can hold. Boolean, string, and 
 
 ### Operators-
 Special symbols or key words used to perform operations on variables and values. Operators are used for performing arithmatic, logical,relational, and assignment tasks in a program. 
+
+
 Arithmatic Operators:
+
 Addition +
+
 Subtraction -
+
 Multiplication *
+
 Division /
 Modulus % (remainder of devision)
+
 Increment ++ 
 (increases a value by 1)
+
 Decrement --
 (decreases a value by 1)
 
+
 Assignment Operators:
+
 Simple Assignment =
+
 Add and assign +=
+
 Subtract and assign -=
+
 Multiply and assign *=
+
 Divide and assign /=
+
 Modulus and assign %=
+
 
 Comparison Operators:
 Equal to ==
+
 Strictly equal to ===
+
 Not equal !=
+
 Strictly not equal to !==
+
 Greater than >
+
 Lesser than <
+
 Greater than or equal to <=
+
 Less than or equal to <=
 
-Logical Operators
+
+Logical Operators:
+
 Logical AND &&
+
 Logical OR ||
+
 Logical NOT !
 
 ### Objects-
@@ -66,6 +93,7 @@ A method used to select elements from the DOM in a webpage. It can be used to ea
 
 ### preventDefault-
 A method that is used to prevent the default action of an event from being triggered. It is used mostly in event handling to override the browsers default behavior for certain actions. Examples of where it is used: 
+
 1.Form submissions-to prevent a form from submitting and refreshing the page.
 
 2.Link(<a> tags)-to prevent navigation when a link is clicked. 
