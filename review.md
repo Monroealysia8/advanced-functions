@@ -10,6 +10,40 @@ You can declare variables with let, const, and var. Use let when you want to red
 Data types specify what kind of value a variable can hold. Boolean, string, and null are some examples of data types. 
 
 ### Operators-
+Special symbols or key words used to perform operations on variables and values. Operators are used for performing arithmatic, logical,relational, and assignment tasks in a program. 
+Arithmatic Operators:
+Addition +
+Subtraction -
+Multiplication *
+Division /
+Modulus % (remainder of devision)
+Increment ++ 
+(increases a value by 1)
+Decrement --
+(decreases a value by 1)
+
+Assignment Operators:
+Simple Assignment =
+Add and assign +=
+Subtract and assign -=
+Multiply and assign *=
+Divide and assign /=
+Modulus and assign %=
+
+Comparison Operators:
+Equal to ==
+Strictly equal to ===
+Not equal !=
+Strictly not equal to !==
+Greater than >
+Lesser than <
+Greater than or equal to <=
+Less than or equal to <=
+
+Logical Operators
+Logical AND &&
+Logical OR ||
+Logical NOT !
 
 ### Objects-
 It stores data with key value pairs. The values can be other objects, arrays, or functions. The keys in the object are always strings or symbols. By grouping related data together, they help organize information and make code more readable and maintainable.
